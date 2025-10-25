@@ -23,4 +23,4 @@
 
 * ### Note
   * 특성상 시청자가 **매우** 많이 필요한 컨텐츠입니다.
-  * 콘텐츠는 구상자 [Github: Devsae]에게 귀속됩니다
+  * 콘텐츠는 구상자 **[Devsae](https://github.com/Beapsae)** 에게 귀속됩니다
